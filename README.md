@@ -1,1 +1,1 @@
-... head over to the [README.pdf](README.PDF)
+...head over to [README.pdf](README.PDF)
